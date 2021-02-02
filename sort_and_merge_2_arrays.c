@@ -19,10 +19,10 @@ scanf("%d",&a1[i]);
 
 bubblesort(a1,n1);
 
-printf("Enter a1 size : \n");
+printf("Enter a2 size : \n");
 scanf("%d",&n2);	
 
-printf("Enter a1 list : \n");
+printf("Enter a2 list : \n");
 for(i=0;i<n2;i++)
 scanf("%d",&a2[i]);
 
